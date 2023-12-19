@@ -1,5 +1,6 @@
 # ESP32-TFT
 This is a sample project on how to connect a SPI TFT display to a Heltec Wifi V3 ESP32 module. 
+My dev enviroment is vscode with PlatformIO. This should work with arduinoIDE with libraries configured the same.
 
 These pins are used as default pins are used by onboard OLED 
 
@@ -9,4 +10,3 @@ These pins are used as default pins are used by onboard OLED
 // TFT_DC   2  // Data Command control pin
 // TFT_RST  1  // Reset pin (could connect to Arduino RESET pin)
 // TFT_BL   3  // LED back-light
-
