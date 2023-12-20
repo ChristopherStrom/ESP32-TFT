@@ -1,4 +1,4 @@
-# ESP32-TFT
+# Heltec WIFI V3 TFT screen - ESP32-TFT
 This is a sample project on how to connect a SPI TFT display to a Heltec Wifi V3 ESP32 module. 
 My dev enviroment is vscode with PlatformIO. This should work with arduinoIDE with libraries configured the same.
 
